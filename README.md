@@ -1,11 +1,11 @@
 <h2 align="center">   
-    𝐋ɪᴘᴘꜱ 𝐌ᴜꜱɪᴄ 𝐁ᴏᴛ
+    𝐋ɪᴘᴘꜱ 𝐌ᴜꜱɪᴄ 
    </h2>  
  <p align="center">   
 <img src="https://graph.org/file/cc41b9fed2c5c87f14044.jpg">   
  </p> ━━━━━━━━━━━━━━━━━━━━ 
  <p align="center"> 
- <a href="https://github.com/Lippsxd/Lippsmusicbot /stargazers"><img src="https://img.shields.io/github/stars/Lippsxd/Lippsmusicbot ?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a> <a href="https://github.com/Lippsxd/Lippsmusicbot /network/members"> <img src="https://img.shields.io/github/forks/Lippsxd/Lippsmusicbot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a> 
+ <a href="https://github.com/INDIANCODERS-1/Lipps-music /stargazers"><img src="https://img.shields.io/github/stars/adityaranjan0918/Lippsmusic ?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a> <a href="https://github.com/INDIANCODERS-1/Lipps-music /network/members"> <img src="https://img.shields.io/github/forks/INDIANCODERS-1/Lipps-music?color=black&logo=github&logoColor=black&style=for-the-badge" /></a> 
  <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a> 
  </p> 
  ━━━━━━━━━━━━━━━━━━━━
@@ -58,19 +58,19 @@
 
  ## ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ 🚀 
 
- <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Lippsxd/Lippsmusicbot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p> 
+ <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/INDIANCODERS-1/Lipps-music"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p> 
 
  The easiest way to host this bot, Deploy on Heroku, Change the app country to Europe (it will help to make the bot more stable). 
 
  ## ᴅᴇᴩʟᴏʏ ᴏɴ ᴏᴋᴛᴇᴛᴏ 
 
- <p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/Lippsxd/Lippsmusicbot "><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200" height="35.45"/></a></p> 
+ <p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/INDIANCODERS-1/Lipps-music "><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200" height="35.45"/></a></p> 
 
  The second easiest way to host this bot, Deploy on Okteto Cloud 
  ## ᴅᴇᴘʟᴏʏ ᴏɴ ᴠᴘꜱ ꜱᴇʀᴠᴇʀ's ✨
 
 
-- Get your [Necessary Variables](https://github.com/Lippsxd/LippsMusicbot/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/INDIANCODERS-1/Lipps-Music/blob/patch-1/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
@@ -82,7 +82,7 @@
 - Install Node js by :
 `curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
-`git clone https://github.com/Lippsxd/lippsmusicbot && cd LippsMusic`
+`git clone https://github.com/INDIANCODERS-1/lipps-music && cd Lipps-Music`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
@@ -101,7 +101,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 </p> 
 
-  ## ᴄᴀᴛᴄʜ ᴍᴇ ɪɴ [ᴛᴇʟᴇɢʀᴀᴍ](https://t.me/lippsxd)  
+  ## ᴄᴀᴛᴄʜ ᴍᴇ ɪɴ [ᴛᴇʟᴇɢʀᴀᴍ](https://t.me/ITZ_IND_CODER)  
 
   ## ⚡ (ɢɪᴠᴇ sᴛᴀʀ) 
  
@@ -113,12 +113,12 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
  </h3> 
 
   <p align="center"> 
- <a href="https://t.me/GJ516_DISCUSS_GROUP"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a> 
+ <a href="https://t.me/the_ind_coders"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a> 
  </p> 
  <p align="center"> 
- <a href="https://telegram.me/thinkgrowmore"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a> 
+ <a href="https://t.me/theind_coders"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a> 
  </p> 
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴀɴᴏɴʏᴍᴏᴜꜱ](https://github.com/AnonymousX1025) ғᴏʀ [ᴀɴᴏɴxᴍᴜꜱɪᴄ](https://github.com/AnonymousX1025/AnonXMusic)_ </b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [INDIAN CODERS](https://github.com/INDIANCODERS-1) ғᴏʀ [LIPPS-MUSIC](https://github.com/INDIANCODERS-1/Lipps-Music)_ </b>
 
 ━━━━━━━━━━━━━━━━━━━━
